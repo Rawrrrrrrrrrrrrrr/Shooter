@@ -1,0 +1,12 @@
+#game-board {
+  border: 1px solid black;
+}
+
+#controls {
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  padding: 5px;
+}
